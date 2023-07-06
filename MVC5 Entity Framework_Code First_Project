@@ -1,0 +1,17 @@
+MVC5 Entity Framework_Code First_Project with SAP Crystal Report and Authentication	An Employee management ASP.NET MVC5 Project of Employees and their Skill information in Master Detail crud (Insert, Edit, Delete) and Authentication with two crystal Report - Code First
+
+Some Features:
+ Two Table with relation
+ Create New table and insert data in Parent table.
+ View All tables Data in Master Details Crud
+ Master Details Crud secured with Authentication (New Registration and Login)
+ Crystal Report output in PDF file for Print
+ Edit and Delete Data for all tables from Database
+
+The following technologies are used:
+ MS-SQL Server 2019
+ ASP.NET MVC5
+ Entity Framework
+ Bootstrap 5
+ Ajax
+ jQuery
